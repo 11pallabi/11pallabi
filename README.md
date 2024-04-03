@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/876183/screenshots/4178051/media/be63d68309d11a1d1875a743eb8c5a03.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhix75&label=Profile%20views&color=0e75b6&style=flat" alt="abhix75" /> </p>
 
-- 🔭 I’m currently working on **Swiggy**
+- 🔭 I’m currently working on **Food Villa(Project)**
 
 - 🌱 I’m currently learning **React**
 
