@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallabi Parmita Nayak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/xV9lXl4jeO0AAAAi/woman-technologist-people.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=11pallabi&label=Profile%20views&color=0e75b6&style=flat" alt="11pallabi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=11pallabi" alt="11pallabi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">A Passionate MERN Stack Developer From India</h3>
+<img align="right" alt="Coding" width="400" src= "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhix75&label=Profile%20views&color=0e75b6&style=flat" alt="abhix75" /> </p>
 
 - 🔭 I’m currently working on **Swiggy**
 
